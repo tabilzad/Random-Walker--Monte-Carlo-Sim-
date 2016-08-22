@@ -8,6 +8,8 @@ The random walk of a single diffusing reactant (particle) toward a centrosymmetr
 <tr>
 <th>Lattice size</th>
 <th align="center">Result</th>
+<th align="center">HI</th>
+<th align="center">Result</th>
 </tr>
 </thead>
 <tbody>
