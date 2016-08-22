@@ -7,15 +7,15 @@ The random walk of a single diffusing reactant (particle) toward a centrosymmetr
 <thead>
 <tr>
 <th>Lattice size</th>
-<th align="center">Result</th>
-<th align="center">HI</th>
-<th align="center">Result</th>
+<th align="center">One-Walker <n></th>
+<th align="center">Two-Walkers <n></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>2x2</td>
 <td align="center">10/3</td>
+<td align="center">3.33</td>
 </tr>
 <tr>
 <td>3x3</td>
