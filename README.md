@@ -6,26 +6,22 @@ The random walk of a single diffusing reactant (particle) toward a centrosymmetr
 <table>
 <thead>
 <tr>
-<th>Tables</th>
-<th align="center">Are</th>
-<th align="right">Cool</th>
+<th>Lattice size</th>
+<th align="center">Result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>col 3 is</td>
-<td align="center">right-aligned</td>
-<td align="right">$1600</td>
+<td>2x2</td>
+<td align="center">10/3</td>
 </tr>
 <tr>
-<td>col 2 is</td>
-<td align="center">centered</td>
-<td align="right">$12</td>
+<td>3x3</td>
+<td align="center">9</td>
 </tr>
 <tr>
-<td>zebra stripes</td>
-<td align="center">are neat</td>
-<td align="right">$1</td>
+<td>5x5</td>
+<td align="center">31.666</td>
 </tr>
 </tbody>
 </table>
