@@ -20,18 +20,22 @@ The random walk of a single diffusing reactant (particle) toward a centrosymmetr
 <tr>
 <td>3x3</td>
 <td align="center">9</td>
+<td align="center">8</td>
 </tr>
 <tr>
 <td>5x5</td>
 <td align="center">31.666</td>
+<td align="center">26.072993</td>
 </tr>
 <tr>
 <td>7x7</td>
 <td align="center">71.615384</td>
+<td align="center">56.649786</td>
 </tr>
 <tr>
 <td>9x9</td>
 <td align="center">130.604450</td>
+<td align="center">99.780244</td>
 </tr>
 
 </tbody>
